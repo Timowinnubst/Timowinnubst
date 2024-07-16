@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Timowinnubst
+- 👀 I’m interested in proggramming
+- 🌱 I’m currently learning unity programming
+- 💞️ I’m looking to collaborate on unity
+- 📫 How to reach me timowinnubst@gmail.com
+- 😄 Pronouns: he/ him
+- ⚡ Fun fact: i like to build fps games
